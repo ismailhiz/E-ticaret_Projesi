@@ -1,0 +1,20 @@
+1.başta bi vade farkszı ödeme seceneği ve kargonun bedava olduğu geçsin  
+.
+arkaya
+solda logo olsun sağda kategoriler yer alsın en sağda ise bir buton olsun hamburger menü gibi 
+onda da sosyal medya adreslerine gitsin shopier instagram gibi gibi altta fotoğraflar dönsün
+onun altında ise takılar yer alsın takılarda satın al yazsın satın al yazı beyaz bg black 
+üstüne gelince border siyah yazı siyah bg beyaz olsun direk card üstüne tıklayınca üst yine 
+aynı alt tarafa sol görsel gelsin görsele yakından bakabilme özelliği ekle sağda ise aynı ,
+renk çeşidi ile bi satın al butonu ama onun üstüne fiyat yazacak aşağıda ise ürünün 
+özellikleri yer alacak.ayrıca en altta ise orjinal ürün kargo bedava iade garantisi gibi 
+iconlarla birlikte bir şey tasarla hatta söyle yapabilirsin mesela özel ürünler eklersin navbara
+ekstradan orda tıklayınca assağıya sıra sıra ürünler cıkar yukardan assağıya doğru burdaki
+ürünler yukarı assağıya doğru hareket eder. Burda sadece fotoğraf olur fotoğrafa tıklayınca
+ise linke gider yani o ürüne 
+
+
+gün 1 bitti
+ 
+	NE eksik
+font kısımlarını düzenle ekstra sosyal medya cubuklarını renklendir benimki gibi ve icon ekle

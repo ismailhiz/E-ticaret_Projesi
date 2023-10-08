@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+   
+}
+
+
+.ust_Kisim{
+    background-color: black;
+    /* background-color: #783c78; */
+    color: white;
+    letter-spacing: 1.5px;
+    text-align: center;
+}
+/* üst kısma yakınlaştırma */
+.navbar{
+    position: relative;
+    top: -13.9px;
+}
+/* üst kısma yakınlaştırma */
+
+/* yazı büyüklüğü baslama */
+.collapse{
+font-size: 1.3em;
+}
+/* yazı büyüklüğü bitiş*/
+
+/* görsel boyutu ayarlama */
+.lina_Görsel{
+    border-radius: 50%;
+   
+    width: 5vw;
+    min-width:7vh;
+    height: auto;
+}
+/* görsel boyutu ayarlama */
+/* navbarın fontları */
+.font_Navbar{
+    /* font-family: 'Cormorant Upright', serif; */
+    /* font-family: 'Oswald', sans-serif; */
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold; 
+    letter-spacing: 1.5px;
+    font-size: 1.2em;
+}
+/* navbarın fontları */
+
+/* sosyal medya renk fontu */
+.sosyal_Medyarenk{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* sosyal medya renk fontu */
+
+/* ürünlerin fiyatlatları tl cinsi başlangıc */
+.fiyat{
+    font-family: 'Roboto Serif', serif;
+    font-size: 1.5em;
+}
+/* ürünlerin fiyatlatları tl cinsi bitiş */
+
+
+/* ürün acıklamasının fontu baslangıc */
+.urun_Acıklama{
+    font-family: 'Borel', cursive;
+    font-size: 1.01em;
+}
+/* ürün acıklamasının fontu bitiş */
+
+/* sepeette indirim başlangıc */
+.sepet_indirim{
+    font-family: 'Playfair', serif;
+    font-size: 1.1em;
+    letter-spacing: 2px;
+}
+/* sepette indirim son */
